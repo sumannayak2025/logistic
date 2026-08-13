@@ -1,0 +1,13 @@
+{
+	"name": "Is_logistic_azure_sql",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Is_logistic_azure_sql_db",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

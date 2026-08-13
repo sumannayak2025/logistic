@@ -1,0 +1,15 @@
+{
+	"name": "logisticprojectdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9ceb254-f225-4c18-88aa-b21b7dbe6aa2",
+		"tenantId": "fdd1a2e3-ebbb-41e5-8a28-e3c5d2f962e9"
+	}
+}
