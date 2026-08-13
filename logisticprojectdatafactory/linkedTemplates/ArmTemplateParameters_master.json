@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "logisticprojectdatafactory"
+		},
+		"Is_logistic_adb_accessToken": {
+			"value": ""
+		},
+		"Is_logistic_azure_sql_db_password": {
+			"value": ""
+		},
+		"Is_logistic_adb_properties_typeProperties_existingClusterId": {
+			"value": "0808-103329-max9o7fm"
+		},
+		"Is_logistic_azure_sql_db_properties_typeProperties_server": {
+			"value": "project2devserver.database.windows.net"
+		},
+		"Is_logistic_azure_sql_db_properties_typeProperties_database": {
+			"value": "projectdevsqldb"
+		},
+		"Is_logistic_azure_sql_db_properties_typeProperties_userName": {
+			"value": "user"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
